@@ -1,0 +1,112 @@
+.nav-style{
+   
+  background-color: antiquewhite;  
+}
+.banner-section-bg-container{
+    background-image: url("https://t4.ftcdn.net/jpg/05/96/62/65/360_F_596626503_jrzjZNYStDexiWxQFqO7oCh6M8PdMlJs.jpg");
+height: 100vh;
+background-size: cover;
+}
+.banner-heading{
+    color: white;
+    font-family:"Roboto";
+    font-size: 45px;
+    font-weight:bold
+}
+
+.banner-caption{
+    color: white;
+    font-size: 25px;
+    font-weight: 300;
+
+}
+.custom-button{
+    border: hidden;
+    border-radius: 10px;
+ background-color:lightgoldenrodyellow;
+}
+.custom-outline-button{
+    
+    border-radius: 10px;
+    background-color:lightgoldenrodyellow;
+
+}
+.wcu-card{
+    text-align: center;
+    
+
+    height: 20px;
+    
+}
+.img-style{
+    height: 120px;
+    width: 100px;
+    
+}
+.image1-style{
+    height: 120px;
+    width: 150px;
+}
+.image-style{
+    height: 40vh;
+border-style: solid;
+   border-width: 2px; 
+   margin: 10px;
+
+}
+.h-style{
+    font-size: medium;
+    
+
+}
+.im-style{
+    height: 150px;
+    width: 180px;
+    border-radius: 10px;
+}
+.head-style{
+font-size: x-large;
+font-style: oblique;
+}
+.bg-warning{
+    border: hidden; 
+color: white;
+border-radius: 10px;
+}
+.im2-style{
+    height: 200px;
+    width: 200px;
+   margin-left: 150px; 
+}
+.im3-style{
+    height: 50px;
+    width: 110px;
+margin-top: 0%;
+}
+.container1{
+    background-image: radial-gradient(white,yellow);
+    height: 100vh;
+    
+}
+.im5-style{
+    height: 200px;
+    width: 200px;
+margin-top: 0%;
+}
+.container2{
+    
+background-color:black;
+color: aliceblue;
+}
+.ig-style{
+ height: 100px;   
+ width: 110px;
+
+}
+.h1-style{
+    font-size: smaller;
+}
+.i-style{
+    height: 50px;
+    width: 50px;
+}
